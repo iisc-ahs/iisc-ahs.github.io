@@ -1,0 +1,8 @@
+---
+layout:     post
+title:      "2015 ARF"
+subtitle:   "will be organised by IISc, Bangalore"
+date:       2015-03-21 12:00:00
+author:     "MS"
+header-img: "img/ARF.png"
+---

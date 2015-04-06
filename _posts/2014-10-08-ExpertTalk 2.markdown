@@ -1,9 +1,11 @@
 ---
 layout:     post
-title:      "The dreams of yesterday are the hopes of today and the reality of tomorrow."
-date:       2014-07-01 12:00:00
-author:     "Start Bootstrap"
-header-img: "img/post-bg-02.jpg"
+title:      "Expert talk by Al Brand"
+subtitle:   "Director of Flight Technology and Simulation at
+Bell Helicopter"
+date:       2014-08-08 12:00:00
+author:     "MS"
+header-img: "img/post-bg-01.jpg"
 ---
 
 <p>Never in all their history have men been able truly to conceive of the world as one: a single sphere, a globe, having the qualities of a globe, a round earth in which all the directions eventually meet, in which there is no center because every point, or none, is center — an equal earth which all men occupy as equals. The airman's earth, if free men make it, will be truly round: a globe in practice, not in theory.</p>

@@ -1,13 +1,13 @@
 # Site settings
-title: Clean Blog
-header-img: img/home-bg.jpg
+title: IISc-AHS Student Chapter
+header-img: 
 email: your-email@yourdomain.com
-description: "Write your site description here. It will be used as your sites meta description as well!"
-baseurl: "/startbootstrap-clean-blog-jekyll"
+description: "The Indian Institute of Science(IISc), Bangalore - AHS International The Vertical Flight Technical Society Student Chapter. "
+baseurl: ""
 url: "http://yourdomain.com"
-twitter_username: SBootstrap
-github_username:  davidtmiller
-facebook_username:  IronSummitMedia
+twitter_username: 
+github_username:  
+facebook_username:  
 
 # Build settings
 markdown: kramdown
