@@ -4,9 +4,21 @@ title:      "2015 ARF"
 subtitle:   "will be organised by IISc, Bangalore"
 date:       2015-03-21 12:00:00
 author:     "MS"
-header-img: "img/ARF.png"
+header-img: ""
 ---
 
 The 2015 ARF will be held in Bangalore and shall be organised by IISc and the IISc-AHS Student Branch.
 
 Click <a href="arf.aero.iisc.ernet.in">here</a> to visit the conference website.
+
+<div align="center">
+<table text-align="center">
+<tr>
+<td><img src="{{ site.baseurl }}/img/ahs.png" width='100'></td>
+<td><img src="{{ site.baseurl }}/img/biling_iisc_logo.png" width='100'></td>
+<td><img src="{{ site.baseurl }}/img/IISc-AHSLogo.png" width='100'></td>
+</tr>
+<tr>
+<td><img src="{{ site.baseurl }}/img/ARF.png" width='400'></td>
+</tr>
+</table>
