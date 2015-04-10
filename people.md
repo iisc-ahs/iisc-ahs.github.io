@@ -22,7 +22,7 @@ Public Relations: Dr Umesh K <br/>
 Web: Mukundhan Srinivasan <br/>
 
 ###Members at large
-Paunikar Shweta Ram <br/>
+Shweta Paunikar <br/>
 Shashank Agrawal <br/>
 Surya Prakash
 
