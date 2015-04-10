@@ -19,6 +19,7 @@ President: Rajnish Mallick <br/>
 Secretary: D R Abhiram <br/>
 Treasurer: Korak Sarkar <br/>
 Public Relations: Dr Umesh K <br/>
+Web: Mukundhan Srinivasan <br/>
 
 ###Members at large
 Paunikar Shweta Ram <br/>
