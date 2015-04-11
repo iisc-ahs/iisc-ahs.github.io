@@ -13,6 +13,19 @@ header-img: "img/Darshan.jpg"
 
 <a href="https://sites.google.com/site/compintellab/"><b>Dr. S N Omkar, </b></a><br/> Department of Aerospace Engineering, Indian Institute of Science.
 
+<div align="center">
+<table text-align="center">
+<tr>
+<figure class="third">
+<td>	<img src="/img/people/ranjan.jpg" alt="" > </td>
+<td>	<img src="/img/people/dinesh.jpg" alt=""></td>
+<td>	<img src="/img/people/omkar.jpg" alt="" ></td>
+<figcaption>(L-R) Prof. Ranjan Ganguli, Prof. Dineshkumar Harursampath, and Dr. S N Omkar.</figcaption> 
+</figure>
+</tr>
+</table>
+</div>
+
 ###Chapter Student Officers
 
 President: Rajnish Mallick <br/>
